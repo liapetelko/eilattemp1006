@@ -14,7 +14,7 @@ global babies
 global hotel
 
 st.title("Eilat")
-st.image("lialia.jpg")
+st.image("eilat1020.jpg")
 start = int(st.selectbox("Enter the start", [10,11,12,13,14,15,16,17,18,19,20]))
 end = int(st.selectbox("Enter the end", [10,11,12,13,14,15,16,17,18,19,20]))
 adults = int(st.selectbox("Adults?",[2,1,3,4]))
